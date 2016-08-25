@@ -6,4 +6,8 @@ package main;
 public class Test2 {
     private  Test test = new Test(1);
 
+    public static void main(String[] args) {
+        System.out.println();
+    }
+
 }
